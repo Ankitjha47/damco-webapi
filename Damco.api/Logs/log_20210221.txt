@@ -1,0 +1,54 @@
+2021-02-21 14:07:33.509 +05:30 [INF] Data Insertion started"Damco.Models.Request.SupplierRequest"
+2021-02-21 14:07:57.763 +05:30 [INF] Data Insertion completedDamco.Models.Request.SupplierRequest
+2021-02-21 14:08:17.090 +05:30 [INF] Data Insertion started"Damco.Models.Request.SupplierRequest"
+2021-02-21 14:08:24.697 +05:30 [INF] Data Insertion completedDamco.Models.Request.SupplierRequest
+2021-02-21 14:08:37.570 +05:30 [INF] Data Insertion started"Damco.Models.Request.SupplierRequest"
+2021-02-21 14:08:38.640 +05:30 [INF] Data Insertion completedDamco.Models.Request.SupplierRequest
+2021-02-21 14:13:14.252 +05:30 [INF] Data Insertion started"Damco.Models.Request.SupplierRequest"
+2021-02-21 14:13:15.243 +05:30 [INF] Data Insertion completedDamco.Models.Request.SupplierRequest
+2021-02-21 14:27:01.975 +05:30 [INF] Data Insertion started"Damco.Models.Request.SupplierRateRequest"
+2021-02-21 14:27:35.876 +05:30 [INF] Data Insertion completedDamco.Models.Request.SupplierRateRequest
+2021-02-21 14:38:24.847 +05:30 [INF] Data Insertion started"Damco.Models.Request.SupplierRateRequest"
+2021-02-21 14:38:29.632 +05:30 [INF] Data Insertion completedDamco.Models.Request.SupplierRateRequest
+2021-02-21 14:46:52.059 +05:30 [INF] Data Insertion started"Damco.Models.Request.SupplierRateRequest"
+2021-02-21 14:46:55.937 +05:30 [INF] Data Insertion completedDamco.Models.Request.SupplierRateRequest
+2021-02-21 14:49:46.817 +05:30 [INF] Data Insertion started"Damco.Models.Request.SupplierRateRequest"
+2021-02-21 14:49:46.897 +05:30 [INF] Data Insertion completedDamco.Models.Request.SupplierRateRequest
+2021-02-21 14:50:19.843 +05:30 [INF] Data Insertion started"Damco.Models.Request.SupplierRateRequest"
+2021-02-21 14:50:19.860 +05:30 [INF] Data Insertion completedDamco.Models.Request.SupplierRateRequest
+2021-02-21 14:50:27.204 +05:30 [INF] Data Insertion started"Damco.Models.Request.SupplierRateRequest"
+2021-02-21 14:50:27.220 +05:30 [INF] Data Insertion completedDamco.Models.Request.SupplierRateRequest
+2021-02-21 14:52:26.899 +05:30 [INF] Data Insertion started"Damco.Models.Request.SupplierRateRequest"
+2021-02-21 14:52:27.664 +05:30 [INF] Data Insertion completedDamco.Models.Request.SupplierRateRequest
+2021-02-21 14:53:18.403 +05:30 [INF] Data Insertion started"Damco.Models.Request.SupplierRateRequest"
+2021-02-21 14:53:19.795 +05:30 [INF] Data Insertion completedDamco.Models.Request.SupplierRateRequest
+2021-02-21 14:54:25.011 +05:30 [INF] Data Insertion started"Damco.Models.Request.SupplierRateRequest"
+2021-02-21 14:54:25.021 +05:30 [INF] Data Insertion completedDamco.Models.Request.SupplierRateRequest
+2021-02-21 14:54:40.885 +05:30 [INF] Data Insertion started"Damco.Models.Request.SupplierRateRequest"
+2021-02-21 14:54:40.896 +05:30 [INF] Data Insertion completedDamco.Models.Request.SupplierRateRequest
+2021-02-21 16:00:43.489 +05:30 [INF] Data load started
+2021-02-21 16:01:22.712 +05:30 [ERR] Error in api/v1/supplier-rate:The LINQ expression 'GroupByShaperExpression:
+KeySelector: d.rate, 
+ElementSelector:EntityShaperExpression: 
+    EntityType: damco_supplier_rate
+    ValueBufferExpression: 
+        ProjectionBindingExpression: EmptyProjectionMember
+    IsNullable: False
+
+    .Select(s => (Nullable<Guid>)s.id)
+    .FirstOrDefault()' could not be translated. Either rewrite the query in a form that can be translated, or switch to client evaluation explicitly by inserting a call to 'AsEnumerable', 'AsAsyncEnumerable', 'ToList', or 'ToListAsync'. See https://go.microsoft.com/fwlink/?linkid=2101038 for more information.
+2021-02-21 16:22:24.884 +05:30 [INF] Data load started
+2021-02-21 16:24:15.470 +05:30 [ERR] Error in api/v1/supplier-rate:Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+2021-02-21 16:24:23.123 +05:30 [INF] Data load started
+2021-02-21 16:25:59.347 +05:30 [INF] Data load started
+2021-02-21 16:26:04.171 +05:30 [ERR] Error in api/v1/supplier-rate:Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+2021-02-21 16:26:12.263 +05:30 [INF] Data load started
+2021-02-21 16:32:16.653 +05:30 [INF] Data load started
+2021-02-21 16:33:27.856 +05:30 [ERR] Error in api/v1/supplier-rate:Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+2021-02-21 16:33:32.673 +05:30 [INF] Data load started
+2021-02-21 16:33:54.779 +05:30 [INF] Data loaded successfully
+2021-02-21 16:39:57.080 +05:30 [INF] Data load started
+2021-02-21 16:41:25.250 +05:30 [INF] Data load started
+2021-02-21 16:41:44.420 +05:30 [INF] Data loaded successfully
+2021-02-21 16:41:57.962 +05:30 [INF] Data load started
+2021-02-21 16:42:17.262 +05:30 [INF] Data loaded successfully

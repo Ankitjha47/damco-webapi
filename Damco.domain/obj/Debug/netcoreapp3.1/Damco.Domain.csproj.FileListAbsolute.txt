@@ -1,0 +1,10 @@
+F:\Ankit\Personal Project\Damco Test\Damco.domain\bin\Debug\netcoreapp3.1\Damco.Domain.deps.json
+F:\Ankit\Personal Project\Damco Test\Damco.domain\bin\Debug\netcoreapp3.1\Damco.Domain.dll
+F:\Ankit\Personal Project\Damco Test\Damco.domain\bin\Debug\netcoreapp3.1\Damco.Domain.pdb
+F:\Ankit\Personal Project\Damco Test\Damco.domain\obj\Debug\netcoreapp3.1\Damco.Domain.AssemblyInfoInputs.cache
+F:\Ankit\Personal Project\Damco Test\Damco.domain\obj\Debug\netcoreapp3.1\Damco.Domain.AssemblyInfo.cs
+F:\Ankit\Personal Project\Damco Test\Damco.domain\obj\Debug\netcoreapp3.1\Damco.Domain.dll
+F:\Ankit\Personal Project\Damco Test\Damco.domain\obj\Debug\netcoreapp3.1\Damco.Domain.pdb
+F:\Ankit\Personal Project\Damco Test\Damco.domain\bin\Debug\netcoreapp3.1\Damco.Domain.runtimeconfig.json
+F:\Ankit\Personal Project\Damco Test\Damco.domain\bin\Debug\netcoreapp3.1\Damco.Domain.runtimeconfig.dev.json
+F:\Ankit\Personal Project\Damco Test\Damco.domain\obj\Debug\netcoreapp3.1\Damco.Domain.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+F:\Ankit\Personal Project\Damco Test\Damco.Models\bin\Debug\netcoreapp3.1\Damco.Models.deps.json
+F:\Ankit\Personal Project\Damco Test\Damco.Models\bin\Debug\netcoreapp3.1\Damco.Models.dll
+F:\Ankit\Personal Project\Damco Test\Damco.Models\bin\Debug\netcoreapp3.1\Damco.Models.pdb
+F:\Ankit\Personal Project\Damco Test\Damco.Models\obj\Debug\netcoreapp3.1\Damco.Models.AssemblyInfoInputs.cache
+F:\Ankit\Personal Project\Damco Test\Damco.Models\obj\Debug\netcoreapp3.1\Damco.Models.AssemblyInfo.cs
+F:\Ankit\Personal Project\Damco Test\Damco.Models\obj\Debug\netcoreapp3.1\Damco.Models.dll
+F:\Ankit\Personal Project\Damco Test\Damco.Models\obj\Debug\netcoreapp3.1\Damco.Models.pdb
+F:\Ankit\Personal Project\Damco Test\Damco.Models\obj\Debug\netcoreapp3.1\Damco.Models.csprojAssemblyReference.cache

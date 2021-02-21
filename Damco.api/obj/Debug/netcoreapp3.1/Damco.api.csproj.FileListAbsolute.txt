@@ -1,0 +1,187 @@
+F:\Ankit\Personal Project\Damco.api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Ankit\Personal Project\Damco.api\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Ankit\Personal Project\Damco.api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Ankit\Personal Project\Damco.api\bin\Debug\netcoreapp3.1\Damco.api.exe
+F:\Ankit\Personal Project\Damco.api\bin\Debug\netcoreapp3.1\Damco.api.deps.json
+F:\Ankit\Personal Project\Damco.api\bin\Debug\netcoreapp3.1\Damco.api.runtimeconfig.json
+F:\Ankit\Personal Project\Damco.api\bin\Debug\netcoreapp3.1\Damco.api.runtimeconfig.dev.json
+F:\Ankit\Personal Project\Damco.api\bin\Debug\netcoreapp3.1\Damco.api.dll
+F:\Ankit\Personal Project\Damco.api\bin\Debug\netcoreapp3.1\Damco.api.pdb
+F:\Ankit\Personal Project\Damco.api\obj\Debug\netcoreapp3.1\Damco.api.csprojAssemblyReference.cache
+F:\Ankit\Personal Project\Damco.api\obj\Debug\netcoreapp3.1\staticwebassets\Damco.api.StaticWebAssets.Manifest.cache
+F:\Ankit\Personal Project\Damco.api\obj\Debug\netcoreapp3.1\staticwebassets\Damco.api.StaticWebAssets.xml
+F:\Ankit\Personal Project\Damco.api\obj\Debug\netcoreapp3.1\Damco.api.MvcApplicationPartsAssemblyInfo.cache
+F:\Ankit\Personal Project\Damco.api\obj\Debug\netcoreapp3.1\Damco.api.AssemblyInfoInputs.cache
+F:\Ankit\Personal Project\Damco.api\obj\Debug\netcoreapp3.1\Damco.api.AssemblyInfo.cs
+F:\Ankit\Personal Project\Damco.api\obj\Debug\netcoreapp3.1\Damco.api.RazorTargetAssemblyInfo.cache
+F:\Ankit\Personal Project\Damco.api\obj\Debug\netcoreapp3.1\Damco.api.dll
+F:\Ankit\Personal Project\Damco.api\obj\Debug\netcoreapp3.1\Damco.api.pdb
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Damco.Api.exe
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Damco.Api.deps.json
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Damco.Api.runtimeconfig.json
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Damco.Api.runtimeconfig.dev.json
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Damco.Api.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Damco.Api.pdb
+F:\Ankit\Personal Project\Damco Test\Damco.api\obj\Debug\netcoreapp3.1\Damco.Api.csprojAssemblyReference.cache
+F:\Ankit\Personal Project\Damco Test\Damco.api\obj\Debug\netcoreapp3.1\staticwebassets\Damco.Api.StaticWebAssets.Manifest.cache
+F:\Ankit\Personal Project\Damco Test\Damco.api\obj\Debug\netcoreapp3.1\staticwebassets\Damco.Api.StaticWebAssets.xml
+F:\Ankit\Personal Project\Damco Test\Damco.api\obj\Debug\netcoreapp3.1\Damco.Api.AssemblyInfoInputs.cache
+F:\Ankit\Personal Project\Damco Test\Damco.api\obj\Debug\netcoreapp3.1\Damco.Api.AssemblyInfo.cs
+F:\Ankit\Personal Project\Damco Test\Damco.api\obj\Debug\netcoreapp3.1\Damco.Api.RazorTargetAssemblyInfo.cache
+F:\Ankit\Personal Project\Damco Test\Damco.api\obj\Debug\netcoreapp3.1\Damco.Api.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\obj\Debug\netcoreapp3.1\Damco.Api.pdb
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Humanizer.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\obj\Debug\netcoreapp3.1\Damco.Api.csproj.CopyComplete
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Damco.Domain.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Damco.Facade.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Damco.Service.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Damco.Facade.pdb
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Damco.Service.pdb
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Damco.Domain.pdb
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Damco.Models.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Damco.Models.pdb
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Serilog.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Ankit\Personal Project\Damco Test\Damco.api\obj\Debug\netcoreapp3.1\Damco.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\Ankit\Personal Project\Damco Test\Damco.api\obj\Debug\netcoreapp3.1\Damco.Api.MvcApplicationPartsAssemblyInfo.cache

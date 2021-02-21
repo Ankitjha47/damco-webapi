@@ -1,0 +1,13 @@
+F:\Ankit\Personal Project\Damco Test\Damco.Service\bin\Debug\netcoreapp3.1\Damco.Service.deps.json
+F:\Ankit\Personal Project\Damco Test\Damco.Service\bin\Debug\netcoreapp3.1\Damco.Service.dll
+F:\Ankit\Personal Project\Damco Test\Damco.Service\bin\Debug\netcoreapp3.1\Damco.Service.pdb
+F:\Ankit\Personal Project\Damco Test\Damco.Service\obj\Debug\netcoreapp3.1\Damco.Service.AssemblyInfoInputs.cache
+F:\Ankit\Personal Project\Damco Test\Damco.Service\obj\Debug\netcoreapp3.1\Damco.Service.AssemblyInfo.cs
+F:\Ankit\Personal Project\Damco Test\Damco.Service\obj\Debug\netcoreapp3.1\Damco.Service.dll
+F:\Ankit\Personal Project\Damco Test\Damco.Service\obj\Debug\netcoreapp3.1\Damco.Service.pdb
+F:\Ankit\Personal Project\Damco Test\Damco.Service\bin\Debug\netcoreapp3.1\Damco.Domain.dll
+F:\Ankit\Personal Project\Damco Test\Damco.Service\bin\Debug\netcoreapp3.1\Damco.Domain.pdb
+F:\Ankit\Personal Project\Damco Test\Damco.Service\obj\Debug\netcoreapp3.1\Damco.Service.csprojAssemblyReference.cache
+F:\Ankit\Personal Project\Damco Test\Damco.Service\obj\Debug\netcoreapp3.1\Damco.Service.csproj.CopyComplete
+F:\Ankit\Personal Project\Damco Test\Damco.Service\bin\Debug\netcoreapp3.1\Damco.Models.dll
+F:\Ankit\Personal Project\Damco Test\Damco.Service\bin\Debug\netcoreapp3.1\Damco.Models.pdb
